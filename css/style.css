@@ -245,14 +245,14 @@ img{
     }
     .post {
         width: 60%;
-        order: 1;
+        order: 2;
     }
     .sidebar {
         width: 22%;
-        order: 2;
+        order: 3;
     }
     .ad{
-        order: 3;
+        order: 1;
     }
 
     .sidebar .heading-medium {
